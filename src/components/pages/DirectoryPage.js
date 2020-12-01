@@ -19,7 +19,7 @@ const DirectoryPage = () => {
   );
 
   useEffect(() => {
-    const employeesUrl = "http://localhost:4000/api/v1/employees";
+    const employeesUrl = "https://employee-directory123456.herokuapp.com/api/v1/employees";
     fetch(employeesUrl)
       .then((resp) => resp.json())
       .then((employees) => {
