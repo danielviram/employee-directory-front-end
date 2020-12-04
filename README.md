@@ -7,6 +7,11 @@ by Daniel Viramontes
 # Description 
 <p>This app is a full stack MERN application that allows users to search for employees. You can filter through all properties and search by last name.</p>
 
+# How to Use
+1. Click <a href="https://employee-directory12345.herokuapp.com/directory">Here</a>
+2. In the search bar you are able to filter the users by  last name. 
+3. Click on any red colum and you are able to sort the table by any category.  
+
 # Directory 
 ![Directory](data.png)
 
