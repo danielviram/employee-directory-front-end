@@ -10,7 +10,7 @@ by Daniel Viramontes
 # Directory 
 ![Directory](data.png)
 
-# Filter By Last Name 
+# Filter By Last Name Alphabetically 
 ![FilterB By Last Name ](filterbylastname.png)
 
 # Search By Last Name
