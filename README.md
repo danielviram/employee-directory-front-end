@@ -1,5 +1,6 @@
 # Employee Directory
-by Daniel Viramontes
+by Daniel Viramontes in collaboration with Issac Medina 
+
 
 # Live Link
 <a href="https://employee-directory12345.herokuapp.com/directory">Directory</a>
@@ -21,5 +22,13 @@ by Daniel Viramontes
 # Search By Last Name
 ![searchbylastname](searchbylastname.png)
 
+# Details 
+We separated the fornt end and back end. Link to <a href="https://github.com/danielviram/employee-directory-back-end">Back End</a>
+
+We used "useState" hook and it is a function used to update the state. It is used to create a local component state to later re-render the component based on the state.  In line 8 of "../pages/DirectoryPage.js" we see it being used. In this HW we used this hook to re-render the component based on the state.  
+
+We used the "useMemo" hook and it returns a memoized value, meaning it will only recompute the memoized value when one of the dependencies has changed. In "../pages/DirectoryPage.js" line 10-19 we see the "useMemo" hook in effect.  In this HW we used this hook to use the memorized or cache the array to increase the performance of the component.  
+
+We used the "useEffect" hook and it lets you perform side effects in function components. In  "../pages/DirectoryPage.js" in line 21-29 we see the "useEffect" being used. In this HW we use this hook to fetch the employees when the component first mounts. 
 
 
