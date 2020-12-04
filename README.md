@@ -1,5 +1,5 @@
 # Employee Directory
-by Daniel Viramontes in collaboration with Issac Medina 
+by Daniel Viramontes in collaboration with Isac Medina 
 
 # Live Link
 <a href="https://employee-directory12345.herokuapp.com/directory">Directory</a>
