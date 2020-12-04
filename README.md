@@ -1,4 +1,5 @@
 # Employee Directory
+by Daniel Viramontes
 
 # Live Link
 <a href="https://employee-directory12345.herokuapp.com/directory">Directory</a>
